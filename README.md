@@ -209,9 +209,4 @@ Laravel Sail doc: https://laravel.com/docs/10.x/sail#introduction
 
 JWT package utilisé: https://laravel-jwt-auth.readthedocs.io/en/latest/  
 
-
-
-![Image de l'app OK](https://previews.dropbox.com/p/thumb/AB0fRI3kRdzrwrY-fAcnE-lOY-IkYKjoSOoGmEWTWL9Pb-Tm568m8xMb_iZKF6RYgUlven1saqZ3-uk-oXja_x3RMCHcog3JX50B0EYa6p6L7i4hdTTS0qsQwTfvmZI8rjrTe7MpB90t_RTveuZHhPYuNm8bMjKc4Qd86M-YutQtcKAn3WcYXEE0-48NcQjf7zg5R2w9k_oxYbAJvVJvD3DliSqV8Ws4FulntpZcLHmcVJMLR-eNmJbY7Hn2b2LvG349BqTdpSao1O83AE8W82YAk3wedXMmwG17Ms_wed45dCEuADR3jaiGCgNw9JEmRGPOuSV-rQRZZLLVfbn8qvp35a765LP26bYuKqXKXm-MSoRCnrjsVQ6GzCPAOR3a3OY/p.png)
-
-
-
+![App Ok](https://www.dropbox.com/s/o19abd0ei4ub5rh/87d36368-0c24-40ef-91fc-caae3ce34d83.JPG?dl=0)
