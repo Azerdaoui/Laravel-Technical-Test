@@ -8,5 +8,5 @@ enum TaskstatusEnum: string
     case TODO = 'Todo';
     case INPROGRESS = 'In progress';
     case TEST = 'Test';
-    case CLOSE = "Closed";
+    case CLOSE = 'Closed';
 }

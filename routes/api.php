@@ -14,8 +14,9 @@ Route::middleware('auth:api')->group(function () {
         Route::post('refresh', [AuthController::class, 'refresh']);
     });
 
-    Route::prefix('project')->group(function () {
+    Route::prefix('projects')->group(function () {
         Route::post('store', [ProjectController::class, 'store']);
+        Route::get('datatable', [ProjectController::class, 'datatable']);
     });
 
     Route::prefix('tasks')->group(function () {

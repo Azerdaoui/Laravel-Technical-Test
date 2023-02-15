@@ -2,7 +2,6 @@
 
 namespace App\Http\Resources\Task;
 
-use App\Http\Resources\Project\ProjectResource;
 use App\Http\Resources\User\UserResource;
 use Illuminate\Http\Resources\Json\JsonResource;
 

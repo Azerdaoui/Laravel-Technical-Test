@@ -2,7 +2,6 @@
 
 namespace App\Models;
 
-use App\Enums\Task\TaskstatusEnum;
 use Illuminate\Database\Eloquent\Model;
 
 class Task extends Model

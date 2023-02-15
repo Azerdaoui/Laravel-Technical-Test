@@ -4,21 +4,21 @@ namespace App\Actions\Project;
 
 use App\Repositories\Project\ProjectRepository;
 
-class CreateProjectAction
+class DatatableAction
 {
     public function __construct(
         private ProjectRepository $projectRepository
     ) {
-      //
+        //
     }
 
     /**
-     * @param array $data
+     * @param array $input
      * 
      * @return [type]
      */
-    public function run(array $data)
+    public function run(array $input)
     {
-        return $this->projectRepository->create($data);
+        return $this->projectRepository->datatable($input);
     }
 }

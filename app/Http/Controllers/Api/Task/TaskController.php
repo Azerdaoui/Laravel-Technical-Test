@@ -34,12 +34,13 @@ class TaskController extends Controller
 
     /**
      * Get all task status list
+     *
      * @return JsonResponse
      */
-    public function getAllTaskStatus():JsonResponse
+    public function getAllTaskStatus(): JsonResponse
     {
         return response()->json([
-            TaskstatusEnum::cases()
+            TaskstatusEnum::cases(),
         ]);
     }
 }
