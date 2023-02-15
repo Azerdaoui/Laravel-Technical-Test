@@ -20,5 +20,6 @@ Route::middleware('auth:api')->group(function () {
 
     Route::prefix('tasks')->group(function () {
         Route::post('store', [TaskController::class, 'store']);
+        Route::get('/status-list', [TaskController::class, 'getAllTaskStatus']);
     });
 });
