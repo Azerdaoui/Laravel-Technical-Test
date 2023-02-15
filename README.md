@@ -1,4 +1,4 @@
-# Laravel techincal test
+# Laravel techincal test - Guide
 
 ## Installation
 Voici les étapes pour cloner et exécuter le projet Laravel-Technical-Test en utilisant Docker :
@@ -64,3 +64,5 @@ Ouvrir un navigateur et accéder à l'adresse http://localhost:80 pour voir l'ap
 API documentation: https://documenter.getpostman.com/view/1483401/2s93CExGrx
 Laravel Sail doc: https://laravel.com/docs/10.x/sail#introduction
 JWT package utilisé: https://laravel-jwt-auth.readthedocs.io/en/latest/
+
+
