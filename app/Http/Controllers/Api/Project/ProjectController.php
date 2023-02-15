@@ -2,13 +2,12 @@
 
 namespace App\Http\Controllers\Api\Project;
 
-use Illuminate\Http\Request;
-use App\Http\Controllers\Controller;
 use App\Actions\Project\CreateProjectAction;
 use App\Actions\Project\DatatableAction;
-use App\Http\Resources\Project\ProjectResource;
+use App\Http\Controllers\Controller;
 use App\Http\Requests\Project\StoreProjectRequest;
-use App\Http\Resources\Project\ProjectsResource;
+use App\Http\Resources\Project\ProjectResource;
+use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 
 class ProjectController extends Controller
@@ -21,7 +20,7 @@ class ProjectController extends Controller
     }
 
     /**
-     * @param Request $request
+     * @param  Request  $request
      * @return JsonResource
      */
     public function datatable(Request $request): JsonResource

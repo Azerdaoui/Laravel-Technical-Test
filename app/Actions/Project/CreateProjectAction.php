@@ -13,8 +13,7 @@ class CreateProjectAction
     }
 
     /**
-     * @param array $data
-     * 
+     * @param  array  $data
      * @return [type]
      */
     public function run(array $data)

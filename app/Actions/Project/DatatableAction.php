@@ -13,8 +13,7 @@ class DatatableAction
     }
 
     /**
-     * @param array $input
-     * 
+     * @param  array  $input
      * @return [type]
      */
     public function run(array $input)
