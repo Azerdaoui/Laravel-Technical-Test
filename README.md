@@ -207,6 +207,4 @@ API documentation: https://documenter.getpostman.com/view/1483401/2s93CExGrx
 
 Laravel Sail doc: https://laravel.com/docs/10.x/sail#introduction  
 
-JWT package utilisé: https://laravel-jwt-auth.readthedocs.io/en/latest/  
-
-![App Ok](https://www.dropbox.com/s/o19abd0ei4ub5rh/87d36368-0c24-40ef-91fc-caae3ce34d83.JPG?dl=0)
+JWT package utilisé: https://laravel-jwt-auth.readthedocs.io/en/latest/ 
